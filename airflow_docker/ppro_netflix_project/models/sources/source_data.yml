@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: source_data
+    schema: ppro_airflow_schema  # Schema where your raw data tables are located
+    tables:
+      - name: Credits
+        description: "Netflix Credits Data"
+      - name: Titles
+        description: "Netflix Titles Data"

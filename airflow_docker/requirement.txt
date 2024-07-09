@@ -1,0 +1,10 @@
+psycopg2-binary
+pandas
+snowflake-connector-python
+dbt-snowflake
+numpy
+#apache-airflow==2.8.1
+tweepy
+# flask
+# Flask-Session
+#apache-airflow
